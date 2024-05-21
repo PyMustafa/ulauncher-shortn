@@ -1,0 +1,18 @@
+{
+    "required_api_version": "2",
+    "name": "shortn",
+    "description": "Shorten your URLs, customize it and get stats about your URLS;)",
+    "developer_name": "Mustafa S. Hassan",
+    "icon": "images/icon.png",
+    "options": {
+        "query_debounce": 2
+    },
+    "preferences": [
+        {
+            "id": "shortn-kw",
+            "type": "keyword",
+            "name": "Shortn",
+            "default_value": "url"
+        }
+    ]
+}
