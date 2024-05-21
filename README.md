@@ -14,6 +14,8 @@
 
 `Shortn Extension` is a [ULauncher](https://ulauncher.io/) extension that shortens URLs with the option of customize it and get detailed statistics. Enhance your URL management with ease and efficiency.
 
+`Why would you use it?`🤔  Take a look at this link: https://is.gd/GizaPyramids Just imagine, this shortened link replaced a hefty `450`-character URL! -btw It's the location of the Giza Pyramids on google maps 😍- It's all about convenience and efficiency."
+
 ## Demo
 ![Demo](screenshots/demo.gif)
 
