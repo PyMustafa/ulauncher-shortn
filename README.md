@@ -63,8 +63,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- [is.gd](https://is.gd) for Their URL shortening service.
-- [Freepik](https://www.freepik.com) for Their awesome icons on [Flaticon](https://www.flaticon.com)
+- [is.gd](https://is.gd) For their great API.
+- [Freepik](https://www.freepik.com) For their awesome icons on [Flaticon](https://www.flaticon.com)
 
 ## Contact
 
